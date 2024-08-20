@@ -12,7 +12,7 @@ print('Hello, Jim!');
 print(2+3);
 print('hello world');
 print('Same message');  print(2)
-print('\"get bent\"')
+print('"get bent"')
 
 print("type 1 or 2")
 
